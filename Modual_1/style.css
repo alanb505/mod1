@@ -1,0 +1,74 @@
+   
+   *{font-family: 'Alfa Slab One', cursive;
+      font-family: 'Anybody', cursive;}
+   
+   body {
+        text-align: center;}
+   
+        body 
+        {background-color: rgb(206,212,218);}
+   body{font-family: Arial, Helvetica, sans-serif;}
+    
+   h1{background-color: rgb(165, 137, 137);
+        padding: 25px;
+        font-family: 'Alfa Slab One', cursive;
+         font-family: 'Anybody', cursive;
+         border-radius: 30px;
+         text-shadow: 1px 1px;
+      }
+   
+    ul{margin: 0;background-color: aliceblue;
+    padding: 10px;
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Anybody', cursive;
+    border-radius: 30px;}
+    
+    ul li {list-style: none; padding: 0%;display: inline;}
+    
+    ul li a{text-decoration: none;
+             color: black;
+                padding: 0 20px; } 
+   
+                a:hover{color: rgb(56, 193, 228);}
+  
+    div{background-color: azure;}
+  
+   img{
+       width: 250px;
+       margin: 10px;
+   }
+.photos{color: black;
+       text-decoration: none;
+       text-align: center;
+}
+
+a{text-decoration: none;
+           color: black;}
+a{color: blue;
+        text-decoration: none;}
+
+img {
+   float: right;
+   border-radius: 10px;
+ }
+
+ .pabout{background-color: rgb(255, 255, 255);
+   }
+
+a{color: black;}
+
+
+footer{
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+    position: fixed;
+    height: 50px;
+    border-top: 1px solid #3E3E3E;  
+ }
+
+ h3{padding: 10px;
+   {background-color: rgb(206,212,218);
+}
+
+ .photoprot{border-radius: 25px;}
